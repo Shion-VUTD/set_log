@@ -8,6 +8,10 @@ with sync_playwright() as p:
     ele = page.wait_for_selector("table")
     print(ele.inner_text())
     # page.screenshot(path=f'example-{browser_type.name}.png')
+    with open("set_table_log.txt", "w") as f:
+        f.write(ele.inner_text())
+    
+    print("log saved.")
     browser.close()
 
 

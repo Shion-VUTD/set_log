@@ -1,0 +1,55 @@
+Host	Players	Mode	Num. Sets	Length	Created	Won
+‚ä‚¤‚ê‚¢	1	Normal	25	04:07.62	3 hours ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	25	02:38.78	3 hours ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	25	07:13.51	3 hours ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	25	03:50.92	4 hours ago	
+
+	2	Normal	0	13:03.22	5 hours ago	
+‚ä‚¤‚ê‚¢	1	Normal	23	04:15.84	5 hours ago	
+
+	3	Normal	8	01:57.38	5 hours ago	
+	2	Normal	0	03:15.53	5 hours ago	
+	2	Normal	15	05:13.97	5 hours ago	
+
+	2	Normal	12	02:54.53	5 hours ago	
+
+	2	Normal	13	02:59.43	5 hours ago	
+
+‚ä‚¤‚ê‚¢	2	Normal	15	04:50.53	5 hours ago	
+
+	2	Normal	13	02:07.76	5 hours ago	
+
+	2	Normal	16	02:30.97	5 hours ago	
+
+‚ä‚¤‚ê‚¢	2	Normal	17	02:40.96	5 hours ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	25	02:41.37	5 hours ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	24	03:30.75	6 hours ago	
+
+‚ä‚¤‚ê‚¢	2	Normal	8	02:04.41	6 hours ago	
+‚ä‚¤‚ê‚¢	2	Normal	5	01:21.05	6 hours ago	
+‚ä‚¤‚ê‚¢	2	Normal	9	01:36.57	6 hours ago	
+	4	Normal	6	01:12.74	6 hours ago	
+‚ä‚¤‚ê‚¢	1	Normal	25	05:22.85	6 hours ago	
+
+‚ä‚¤‚ê‚¢	2	Normal	7	01:53.67	6 hours ago	
+	2	Normal	9	01:40.02	6 hours ago	
+‚ä‚¤‚ê‚¢	1	Normal	24	03:01.92	7 hours ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	24	03:33.94	a day ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	24	02:15.97	a day ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	24	10:29.25	a day ago	
+
+‚ä‚¤‚ê‚¢	1	Normal	25	03:35.99	a day ago	
+
+	2	Normal	13	04:24.86	a day ago	
+
+	2	Normal	12	02:06.98	a day ago	
+
+	2	Normal	12	02:06.76	a day ago	
